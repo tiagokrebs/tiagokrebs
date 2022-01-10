@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @tiagokrebs
+- 👨‍💼 I'm a Software Engineer and a Tech Lead
 - 👀 I’m interested in Systems Engineering and Data related stuff
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently learning Data Science and Systems Thinking
 - 💞️ I’m looking to collaborate on building systems from scratch and event-driven projects
 - 📫 Reach me at krebstiago@gmail.com
 
